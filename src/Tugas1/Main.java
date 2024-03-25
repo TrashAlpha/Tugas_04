@@ -1,4 +1,4 @@
-package.Tugas1;
+package Tugas1;
 
 public class Main {
     public static class Mahasiswa {
@@ -70,11 +70,11 @@ public class Main {
         Transkrip t4 = new Transkrip();
         //LENGKAPI CODE DISINI (2.5)
 
-        addTranscript(/*LENGKAPI CODE DISINI (5)*/);
-        addTranscript(/*LENGKAPI CODE DISINI (2)*/);
-        title(/*LENGKAPI CODE DISINI (3)*/);
-        addTranscript(/*LENGKAPI CODE DISINI (5)*/);
-        addTranscript(/*LENGKAPI CODE DISINI (2)*/);
-        title(/*LENGKAPI CODE DISINI (3)*/);
+        // addTranscript(/*LENGKAPI CODE DISINI (5)*/);
+        // addTranscript(/*LENGKAPI CODE DISINI (2)*/);
+        // title(/*LENGKAPI CODE DISINI (3)*/);
+        // addTranscript(/*LENGKAPI CODE DISINI (5)*/);
+        // addTranscript(/*LENGKAPI CODE DISINI (2)*/);
+        // title(/*LENGKAPI CODE DISINI (3)*/);
     }
 }
