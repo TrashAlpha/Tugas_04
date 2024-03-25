@@ -10,7 +10,7 @@ public class Main {
         lcd.volumeUp();
         lcd.setBrightness(39);
         lcd.brightnessDown();
-        lcd.setCable(3);
+        lcd.setCable(2);
 
         lcd.displayMessage();
     }
